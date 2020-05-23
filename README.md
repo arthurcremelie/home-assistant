@@ -2,9 +2,16 @@
 You can do an incredible amount of things with Home Assistant: chekc out home-assistant.io.  
 
 ## Infrastructure
-I run Home Assistant (formerly Hass.io) in a VM in Proxmox on an old HP laptop. It works really good.
+I run Home Assistant (formerly Hass.io) in a VM in Proxmox on an old HP laptop. It works great.
 
 ## Integrations
+
+### SolarEdge
+
+### Somfy
+
+### MQTT
+
 ### Kodi
 ```
 Service: kodi.call_method  
