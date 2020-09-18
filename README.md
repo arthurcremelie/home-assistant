@@ -1,5 +1,5 @@
 # My Home Assistant Configuration
-You can do a lot of automation with Home Assistant: check out home-assistant.io.  
+You can do a lot of automation with Home Assistant: check out http://home-assistant.io.  
 
 ## Infrastructure
 I run Home Assistant (formerly Hass.io) in a VM in Proxmox on an old HP laptop and it works great.
@@ -10,9 +10,10 @@ I run Home Assistant (formerly Hass.io) in a VM in Proxmox on an old HP laptop a
 View solar panels statistics with the SolarEdge API integration.
 
 ### Somfy
+Control and automate the roller shutters at home via Home Assistant.
 
 ### MQTT
-Locally control WiFi bulbs and sockets. My bulbs and sockets come from Action (BE/NL) and come with Tuya out of the box, but I flashed them with Tasmota.
+Locally control WiFi bulbs and sockets. My bulbs and sockets come from Action (BE/NL) and come with Tuya installed out of the box, but I flashed them with Tasmota.
 
 ### Kodi
 ```
